@@ -1,0 +1,49 @@
+.bg{
+	background-image: url(clown.jpg);
+}
+
+.header {
+	height: 60px;
+	margin-top: 10px;
+}
+
+.boxmain {
+	height: 900px;
+}
+
+
+.gray {
+	background: #2b2b2b;
+}
+
+.height-50 {
+	height: 50px;
+}
+
+.height-28 {
+	height: 28px;
+}
+
+.height-33 {
+	height: 33px;
+}
+
+.height-70 {
+	height: 70px;
+}
+
+.height-60 {
+	height: 50px;
+}
+
+.height-90 {
+	height: 60px;
+}
+
+.height-10 {
+	height: 14px;
+}
+
+.width-500 {
+	width: 300px;
+}
